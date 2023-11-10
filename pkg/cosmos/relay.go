@@ -83,6 +83,10 @@ func (r *Relayer) NewFunctionsProvider(rargs types.RelayArgs, pargs types.Plugin
 	return nil, errors.New("functions are not supported for cosmos")
 }
 
+func (r *Relayer) NewOCR2KeepersProvider(rargs types.RelayArgs, pargs types.PluginArgs) (types.OCR2KeepersProvider, error) {
+	return nil, errors.New("ocr2keepers is not supported for cosmos")
+}
+
 func (r *Relayer) NewConfigProvider(args types.RelayArgs) (types.ConfigProvider, error) {
 	var configProvider types.ConfigProvider
 	var err error
