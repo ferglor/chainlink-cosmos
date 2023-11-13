@@ -73,7 +73,7 @@ require (
 	github.com/robfig/cron/v3 v3.0.1 // indirect
 	github.com/rogpeppe/go-internal v1.10.0 // indirect
 	github.com/russross/blackfriday v1.6.0 // indirect
-	github.com/smartcontractkit/chainlink-relay v0.1.7-0.20231111012337-3c20a75830dd // indirect
+	github.com/smartcontractkit/chainlink-relay v0.1.7-0.20231113153002-175b94ca0885 // indirect
 	github.com/spf13/cobra v1.5.0 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/xlab/treeprint v1.1.0 // indirect

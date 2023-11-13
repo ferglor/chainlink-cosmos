@@ -355,6 +355,8 @@ github.com/smartcontractkit/chainlink-env v0.2.50 h1:Mv8oc0lDDzzyFZe6pEJu1LbIM+l
 github.com/smartcontractkit/chainlink-env v0.2.50/go.mod h1:xktObP9hQdINcSVzO1kNsDuu8AHfJFrgkS4B39ssPlQ=
 github.com/smartcontractkit/chainlink-relay v0.1.7-0.20231111012337-3c20a75830dd h1:GTO3HbsRgPROOd+B+VHp1oo6B+MmrvHC+ipLnAq55Ow=
 github.com/smartcontractkit/chainlink-relay v0.1.7-0.20231111012337-3c20a75830dd/go.mod h1:M9U1JV7IQi8Sfj4JR1qSi1tIh6omgW78W/8SHN/8BUQ=
+github.com/smartcontractkit/chainlink-relay v0.1.7-0.20231113153002-175b94ca0885 h1:v4oGOFzyxQfNF/2ROcJV4F4o/XLg0vjjotxHfX6U5yo=
+github.com/smartcontractkit/chainlink-relay v0.1.7-0.20231113153002-175b94ca0885/go.mod h1:M9U1JV7IQi8Sfj4JR1qSi1tIh6omgW78W/8SHN/8BUQ=
 github.com/spaolacci/murmur3 v0.0.0-20180118202830-f09979ecbc72/go.mod h1:JwIasOWyU6f++ZhiEuf87xNszmSA2myDM2Kzu9HwQUA=
 github.com/spf13/afero v1.2.2/go.mod h1:9ZxEEn6pIJ8Rxe320qSDBk6AsU0r9pR7Q4OcevTdifk=
 github.com/spf13/cobra v1.5.0 h1:X+jTBEBqF0bHN+9cSMgmfuvv2VHJ9ezmFNf9Y/XstYU=
