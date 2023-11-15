@@ -13,7 +13,7 @@ require (
 	github.com/smartcontractkit/chainlink-cosmos v0.4.1-0.20230913032705-f924d753cc47
 	github.com/smartcontractkit/chainlink-cosmos/ops v0.0.0-20230615043323-5fe39e28b7ee
 	github.com/smartcontractkit/chainlink-env v0.36.0
-	github.com/smartcontractkit/chainlink-relay v0.1.7-0.20231113161505-3ec81fef75d5
+	github.com/smartcontractkit/chainlink-relay v0.1.7-0.20231115022839-6b4362375ac7
 	github.com/smartcontractkit/chainlink-testing-framework v1.15.3
 	github.com/smartcontractkit/chainlink/integration-tests v0.0.0-20230818010150-dc7e03125cd0
 	github.com/smartcontractkit/chainlink/v2 v2.6.0
