@@ -106,3 +106,7 @@ func (r *Relayer) NewMedianProvider(rargs types.RelayArgs, pargs types.PluginArg
 	}
 	return configProvider, err
 }
+
+func (r *Relayer) NewOCR2KeepersProvider(rargs types.RelayArgs, pargs types.PluginArgs) (types.OCR2KeepersProvider, error) {
+	return nil, errors.New("ocr2keepers is not supported for cosmos")
+}
