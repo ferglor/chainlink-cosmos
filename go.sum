@@ -676,6 +676,8 @@ github.com/sirupsen/logrus v1.2.0/go.mod h1:LxeOpSwHxABJmUn/MG1IvRgCAasNZTLOkJPx
 github.com/sirupsen/logrus v1.4.2/go.mod h1:tLMulIdttU9McNUspp0xgXVQah82FyeX6MwdIuYE2rE=
 github.com/smartcontractkit/chainlink-common v0.1.7-0.20231130233324-6b86e3430df3 h1:LWc/q78++tqCfyRxB9ufoyseDGG6k1aZTSO1l/R0Rs8=
 github.com/smartcontractkit/chainlink-common v0.1.7-0.20231130233324-6b86e3430df3/go.mod h1:Hrru9i7n+WEYyW2aIt3/YGPhxLX+HEGWnhk3yVXeDF8=
+github.com/smartcontractkit/chainlink-common v0.1.7-0.20231205003030-db136e8808d3 h1:KuGjPbgBMBlFHRZmhgys4ykDGA+FA0i7No5a108/xRI=
+github.com/smartcontractkit/chainlink-common v0.1.7-0.20231205003030-db136e8808d3/go.mod h1:Hrru9i7n+WEYyW2aIt3/YGPhxLX+HEGWnhk3yVXeDF8=
 github.com/smartcontractkit/grpc-proxy v0.0.0-20230731113816-f1be6620749f h1:hgJif132UCdjo8u43i7iPN1/MFnu49hv7lFGFftCHKU=
 github.com/smartcontractkit/grpc-proxy v0.0.0-20230731113816-f1be6620749f/go.mod h1:MvMXoufZAtqExNexqi4cjrNYE9MefKddKylxjS+//n0=
 github.com/smartcontractkit/libocr v0.0.0-20230925165524-ffa38fe11ef8 h1:R9NkVN+1fooUJFsN9zj9gDY1B+zv54zNO785RQZRVfE=
